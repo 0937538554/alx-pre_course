@@ -1,1 +1,2 @@
 readme
+how to update
